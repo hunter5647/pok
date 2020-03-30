@@ -190,4 +190,4 @@ client.log = async (content, title, type) => {
   }
 };
 
-client.login(process.env.TOKEN);
+client.login(Njk0MTY2MTE3Mjk5NzgxNjUz.XoHwOQ.-IUpr46AkAA1xUHBLbxDEfjCl74);
